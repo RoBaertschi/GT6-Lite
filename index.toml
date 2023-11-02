@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/ae2fluidcraft-rework.pw.toml"
-hash = "1494636efb7321a086a75de171f15d584bea0327c131f1cd737e4774f6bf32e5"
+file = "mods/ae2-fluid-crafting-rework.pw.toml"
+hash = "15dcca0ed439fd6c20b4ff88a7eb0f4cfd0c2843b08e384c9ac1a18308dfcab0"
 metafile = true
 
 [[files]]
@@ -307,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/satchels.pw.toml"
 hash = "e58fda41778d51a4eb79096669b90b987409b27740d54d4a80af0bbdce843af6"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
 
 [[files]]
