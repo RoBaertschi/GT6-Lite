@@ -1,0 +1,13 @@
+name = "Prospector's Journal"
+filename = "prospectorjournal-0.12.2-DEV.20211104041422.33b1510.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68b84d6ba545af97ccdb611fe05a6745e60fd1e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3800564
+project-id = 626486

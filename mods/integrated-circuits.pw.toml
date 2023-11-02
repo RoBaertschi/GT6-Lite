@@ -1,0 +1,7 @@
+name = "integrated-circuits"
+filename = "integratedcircuits-1.7.10-0.9r37c.jar"
+
+[download]
+url = "https://github.com/Victorious3/Integrated-Circuits/releases/download/0.9r37c/integratedcircuits-1.7.10-0.9r37c.jar"
+hash-format = "sha256"
+hash = "7bd93317cdb605326cb9acb3c1ed2f983ae227b5dbb6824b81303a379c1e9bea"

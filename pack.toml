@@ -1,0 +1,14 @@
+name = "GT6 Lite"
+author = "RoBaertschi"
+version = "1.0.0"
+description = "A simple GT6 minecraft modpack based"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5cb418484a426e8df8cedd7713e3be6ed6e99a036de94aa24714b923122d74ae"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

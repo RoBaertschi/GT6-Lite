@@ -1,0 +1,13 @@
+name = "PotionExtension"
+filename = "PotionExtension-1.7.10-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "272b13fa1e7bf303e358068482726b7bdd4b9ee2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2241196
+project-id = 230023

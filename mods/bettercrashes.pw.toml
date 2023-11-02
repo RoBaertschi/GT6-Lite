@@ -1,0 +1,7 @@
+name = "bettercrashes"
+filename = "bettercrashes-1.3.3-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BetterCrashes/releases/download/1.3.3-GTNH/bettercrashes-1.3.3-GTNH.jar"
+hash-format = "sha256"
+hash = "0a935107d200937c5cf8311a9cf47919dbb25580bbaf73ffa49539b01595c134"

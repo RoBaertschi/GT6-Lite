@@ -1,0 +1,13 @@
+name = "Village Names"
+filename = "VillageNames-1.7.10-4.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1632fc816a58f442a64aa7c43e6df40829b16fc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4537165
+project-id = 259230

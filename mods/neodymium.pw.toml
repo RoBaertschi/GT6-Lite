@@ -1,0 +1,7 @@
+name = "Neodymium"
+filename = "neodymium-1.7.10-0.1.8.4.jar"
+
+[download]
+url = "https://github.com/makamys/Neodymium/releases/download/0.1.8.4/neodymium-1.7.10-0.1.8.4.jar"
+hash-format = "sha256"
+hash = "b27a6030732662d6b46e9597e5d9e0f4ad6bff2d4a88d087c37454d59edcb5b6"

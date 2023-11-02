@@ -1,0 +1,13 @@
+name = "Lag Goggles: Legacy"
+filename = "laggoggles-mc1.7.10-4.15.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yNnilXec/versions/gteXGOar/laggoggles-mc1.7.10-4.15.0.jar"
+hash-format = "sha1"
+hash = "69414c1954d1f46ae4a2de0195e170b89f58a1da"
+
+[update]
+[update.modrinth]
+mod-id = "yNnilXec"
+version = "gteXGOar"

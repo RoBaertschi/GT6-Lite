@@ -1,0 +1,7 @@
+name = "gregtech"
+filename = "gregtech_1.7.10-6.17.00.jar"
+
+[download]
+url = "https://gregtech.overminddl1.com/com/gregoriust/gregtech/gregtech_1.7.10/6.17.00/gregtech_1.7.10-6.17.00.jar"
+hash-format = "sha256"
+hash = "a66cd1ccae9237d64c5850dfb23b87c0ea06cd0cffd1b1fe8c220db131affe8a"
