@@ -1,6 +1,58 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "91291a89006ee02a1950a8c8c24fb1b17972542a6424ef4f38a0a0fd8729750c"
+
+[[files]]
+file = "config/IC2.cfg"
+hash = "0a8dcd9c742c45714d25c6ffb03ae14d359ee919de72c798cf8e114ef09957f1"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "6b08735752891857d78bc60323c3da5d1b2a71e7fa33732ec211d0675d6060e6"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "6eb3bf2e0801b6db648bf6518daab450499c6e6016717d98a83b2c4f3f4c91cd"
+
+[[files]]
+file = "config/aroma1997/Aroma1997Core.cfg"
+hash = "2b8b88f44b5b401ef8a3975e8a2ea1c43446404e94cc14ada43900fc3fbe3c6e"
+
+[[files]]
+file = "config/betterstorage.cfg"
+hash = "911e4dbb227263c7cd66b49156e98c2e4c0a740e0c1e45a0298904aaca870107"
+
+[[files]]
+file = "config/factorization.cfg"
+hash = "55da2d047ce03a5b835e29d2bcf6138a30ff7ec32bfcca3b37dc590928391270"
+
+[[files]]
+file = "config/fastcraft.ini"
+hash = "26bd1a4ce639dbeda34a94b987ea5fb757379d2ad743349fdf032c2948b3b211"
+
+[[files]]
+file = "config/forestry/backpacks.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/forestry/common.cfg"
+hash = "2751a71cff516a4486b3eb04f0b62d38932ffb931f1f019ee57096a82f700cd7"
+
+[[files]]
+file = "config/forestry/fluids.cfg"
+hash = "e96315bc3343ce38a2462b69abfa21ef5f0f810eba08bdbba90891339e116e4f"
+
+[[files]]
+file = "config/railcraft/blocks.cfg"
+hash = "7c8ab77a16d9e9fb6c212c2a35e7a33bfd2757f3c216678d905821270a21aeb2"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "12d56e31c6057d83999e09e6cef6d5cbfb0fea51a3b0790e0d469a2f074a67b2"
+
+[[files]]
 file = "mods/ae2-fluid-crafting-rework.pw.toml"
 hash = "15dcca0ed439fd6c20b4ff88a7eb0f4cfd0c2843b08e384c9ac1a18308dfcab0"
 metafile = true
