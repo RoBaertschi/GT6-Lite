@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-storage.pw.toml"
-hash = "a29bd78322b90c172bd47a1c9083aace3d0d2603412566e096cc07ff8b4afe0c"
+hash = "3793f4f26f1c56f3c82e76d3fcb9697f954125bf600f326b818efb5d1cae93fe"
 metafile = true
 
 [[files]]

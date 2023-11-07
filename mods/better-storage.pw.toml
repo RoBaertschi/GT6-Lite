@@ -1,6 +1,7 @@
 name = "Better Storage"
 filename = "BetterStorage-1.7.10-0.13.1.126.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
